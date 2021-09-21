@@ -1,0 +1,92 @@
+img{border-radius: 30px;} 
+
+
+.bouton {
+  background-color:#ff0000;
+  border: 1500px;
+  color: white ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px;                      
+  font-size: 150%;
+  cursor: pointer;
+  border-radius: 1000px;
+  border-color: white;
+  }
+
+.boutons {
+  width: 160px;
+  background-color:#00ff00;
+  border: 10px;
+  color: white ; 
+  margin: auto;
+  text-decoration: none;
+  padding: 15px;                      
+  font-size: 150%;
+  cursor: pointer;
+  border-radius: 1000px;
+  border-color: white;
+  }
+
+  .boutonss {
+  background-color:#0000ff;
+  border: 60px;
+  color: white ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px;                      
+  font-size: 150%;
+  cursor: pointer;
+  border-radius: 1000px;
+  border-color: white;
+  }
+
+
+.boutonsss {
+  background-color:#FF9700;
+  border: 1500px;
+  color: white ; 
+  margin: auto;
+  text-align: center;
+  text-decoration: none;
+  padding: 15px;                      
+  font-size: 150%;
+  cursor: pointer;
+  border-radius: 1000px;
+  border-color: white;
+  }
+
+.bouton:hover {
+  background-color: #000000;
+  color: red;
+  }
+
+.boutons:hover {
+  background-color: #000000;
+  color: green;
+  }
+
+.boutonss:hover {
+  background-color: #000000;
+  color: #1A00F9;
+  }
+.boutonsss:hover {
+  background-color: #000000;
+  color: #FFAE00;
+  }
+iframe{
+  border-radius: 30px;
+
+}
+
+
+table{
+height: auto  ;
+width: 100%;
+}
+
+
+   
+  
